@@ -1,0 +1,43 @@
+/*index.css*/
+body {
+	margin: 0;
+	padding: 0
+}
+
+.container {
+	margin: 10px auto;
+	width: 960px;
+	height: 300px;
+	border: 1px solid #333;
+}
+
+.toolbar {
+	margin: 10px auto;
+	width: 300px;
+	height: 200px;
+}
+
+.none {
+	display: none;
+}
+
+.block {
+	border: 1px solid #333;
+	float: left;
+}
+
+.start {
+	background: #4CAF50;
+}
+
+.target {
+	background: #F44339;
+}
+
+.wall {
+	background: #ccc;
+}
+
+.current {
+	background: #008CCB;
+}
